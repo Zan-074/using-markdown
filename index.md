@@ -11,3 +11,6 @@
 test = "This is a test."
 print(test)
 ```
+- [x] Sample task 1
+- [x] Sample task 2
+- [ ] Sample task 3
