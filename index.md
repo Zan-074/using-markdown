@@ -6,3 +6,8 @@
 ###### H6 is small small
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+test = "This is a test."
+print(test)
+```
